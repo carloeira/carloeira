@@ -1,4 +1,4 @@
-## Olá! Meu nome é Carlos e sou estudante de programação.
+## Olá! Meu nome é Carlos e sou estudante de programação na Digital College Fortaleza.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
