@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Carlos e sou estudante de programação na Digital College Fortaleza.
-   <div style="display: inline_block"align="left">
+   <div style="display: inline_block"align="center">
   <a href="https://github.com/carloeira">
   <img align="center" target="_parent" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" target="_parent" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloeira&layout=compact&langs_count=7&theme=dracula"/>
 </div> <br>
-  <div align="right"> 
+  <div align="center"> 
   <a href="https://github.com/carloeira">
   <a href="https://instagram.com/carloeiraa" target="_parent"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_parent"></a>
  <a href="https://discord.gg/DQkCb3Ef" target="_parent"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_parent"></a> 
