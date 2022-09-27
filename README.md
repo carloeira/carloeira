@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Carlos e sou estudante de programação na Digital College Fortaleza.
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" target="_parent" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" target="_parent" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" target="_parent" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
