@@ -19,8 +19,5 @@
   <a href="https://br.linkedin.com/in/imcarlosvieira" target="_parent"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_parent"></a> 
 
   ##
-   
-   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+     
 </div>
