@@ -1,4 +1,4 @@
-## Olá! Meu nome é Carlos e sou estudante de programação na Digital College Fortaleza.
+## Olá! Estudante de programação da Digital College Fortaleza.
    <div style="display: inline_block"align="center">
   <a href="https://github.com/carloeira">
   <img align="center" target="_parent" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
