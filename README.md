@@ -1,4 +1,4 @@
-## Olá! Estudante de programação da Digital College Fortaleza.
+<h1 align="center">Estudante de programação da Digital College Fortaleza.</h1>
    <div style="display: inline_block"align="center">
   <a href="https://github.com/carloeira">
   <img align="center" target="_parent" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
