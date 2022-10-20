@@ -15,7 +15,6 @@
   ##
   
   <div align="center"> 
-  <a href="https://github.com/carloeira">
   <a href="https://instagram.com/carloeiraa" target="_parent"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_parent"></a>
  <a href="https://discord.gg/DQkCb3Ef" target="_parent"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_parent"></a> 
   <a href = "mailto:augustovieira.cb@gmail.com" target="_parent"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_parent"></a>
