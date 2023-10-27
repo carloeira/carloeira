@@ -1,16 +1,28 @@
-<!-- Início da apresentação -->
+<!-- Visitantes -->
 <div align="center">
-  <h1>👋 Olá, Mundo! Eu sou o Carlos.dev</h1>
-  <p>Desenvolvedor Web | Apaixonado por Tecnologia | Viciado em Café ☕ </p>
-
-![Visitantes](https://komarev.com/ghpvc/?username=carloeira&style=for-the-badge)
-
+  <img src="https://komarev.com/ghpvc/?username=carloeira&style=for-the-badge">
 </div>
 
+<!-- Início da apresentação -->
+<div align="center">
+  <h1>👋 Olá, Mundo! Eu sou o Carlos.dev</h1>  
+  <p>Desenvolvedor Web | Apaixonado por Tecnologia | Viciado em Café ☕ </p>
+</div>
+
+<!-- Estatísticas do GitHub -->
+<div align="center">
+  <h2>Estatísticas do GitHub</h2>
+  <a href="https://github.com/carloeira/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carloeira&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/carloeira/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloeira&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>  
+</div>
 
 <!-- Tecnologias e Ferramentas -->
 <div align="center">
-  <h2>Tecnologias e Ferramentas</h2>
+  <h2></h2>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" alt="CSS3">
@@ -24,18 +36,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="30" width="40" alt="NestJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="Node.js">
   </p>
-</div>
-
-<!-- Estatísticas do GitHub -->
-  
-<div align="center">
-  <h2>Estatísticas do GitHub</h2>
-  <a href="https://github.com/carloeira/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carloeira&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/carloeira/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloeira&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-  </a>  
 </div>
 
 <!-- Redes Sociais e Contato -->
