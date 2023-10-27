@@ -23,6 +23,7 @@
 <!-- Tecnologias e Ferramentas -->
 <div align="center">
   <h2></h2>
+  <p>Atualmente, estou desenvolvendo com as seguintes tecnologias e ferramentas:</p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" alt="CSS3">
