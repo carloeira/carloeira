@@ -4,8 +4,14 @@
 </div>
 
 <!-- Início da apresentação -->
+<details align="center">
+  <summary><h2>👋 Olá, Mundo! Eu sou o Carlos.dev</h2></summary>
+  <p align="center">
+    <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" alt="Hello, World!" width="200">
+  </p>
+</details>
+
 <div align="center">
-  <h1>👋 Olá, Mundo! Eu sou o Carlos.dev</h1>  
   <p>Desenvolvedor Web | Apaixonado por Tecnologia | Viciado em Café ☕ </p>
 </div>
 
