@@ -5,7 +5,7 @@
 
 <!-- Início da apresentação -->
 <details align="center">
-  <summary><h2>👋 Olá, Mundo! Eu sou o Carlos.dev</h2></summary>
+  <summary><h1>👋 Olá, Mundo! Eu sou o Carlos.dev</h1></summary>
   <p align="center">
     <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" alt="Hello, World!" width="200">
   </p>
