@@ -31,15 +31,19 @@
   <h2></h2>
   <p>Atualmente, estou desenvolvendo com as seguintes tecnologias e ferramentas:</p>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" alt="CSS3">
+    <img src="https://devicons.railway.app/i/html5.svg" height="30" width="40" alt="HTML5">
+    <img src="https://devicons.railway.app/i/css3.svg" height="30" width="40" alt="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="40" alt="PHP">
+    <img src="https://devicons.railway.app/i/php.svg" height="30" width="40" alt="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="40" alt="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" alt="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" width="40" alt="TypeScript">
+    <img src="https://devicons.railway.app/i/postgresql.svg" height="30" width="40" alt="Postgres">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" alt="Git">
+    <img src="https://devicons.railway.app/i/docker.svg" height="30" width="40" alt="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" width="40" alt="React">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="30" width="40" alt="Angular">
+    <img src="https://devicons.railway.app/i/spring.svg" height="30" width="40" alt="Spring">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="30" width="40" alt="NestJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="Node.js">
   </p>
