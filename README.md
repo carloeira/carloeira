@@ -12,7 +12,7 @@
 </details>
 
 <div align="center">
-  <p>Desenvolvedor Web | Apaixonado por Tecnologia | Viciado em Café ☕ </p>
+  <p>Desenvolvedor Web | Apaixonado por Tecnologia</p>
 </div>
 
 <!-- Estatísticas do GitHub -->
