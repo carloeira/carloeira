@@ -19,10 +19,10 @@
 <div align="center">
   <h2>Estatísticas do GitHub</h2>
   <a href="https://github.com/carloeira/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carloeira&show_icons=true&theme=transparent" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=carloeira&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/carloeira/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloeira&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloeira&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>  
 </div>
 
