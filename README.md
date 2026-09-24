@@ -24,6 +24,7 @@
     <img src="https://devicons.railway.app/i/css3.svg" height="30" width="40" alt="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="Bootstrap">
     <img src="https://devicons.railway.app/i/php.svg" height="30" width="40" alt="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" height="30" width="40" alt="Moodle">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="40" alt="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40" alt="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" width="40" alt="TypeScript">
